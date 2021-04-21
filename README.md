@@ -27,7 +27,7 @@
 <!-- ![docker](https://img.shields.io/badge/docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white) -->
 ![git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![github](https://img.shields.io/badge/-CI/CD-2D9EA2?&style=for-the-badge)
-![go](https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white)
+<!-- ![go](https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white)-->
 <!-- ![dart](https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white) -->
 ![express](https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge)
 ![react](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -42,7 +42,7 @@
 <!-- ![celery](https://img.shields.io/badge/-CELERY-1A4730?style=for-the-badge&logo=celery) -->
 <!-- ![postgres](https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white) -->
 <!-- ![rabbitmq](https://img.shields.io/badge/RabbitMQ%20-%23F7DF1E.svg?&style=for-the-badge&color=FF6600)
-![vue.js](https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D) -->
+<!-- ![vue.js](https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D) -->
 <!-- ![prometheus](https://img.shields.io/badge/-NGINX-10341E?&style=for-the-badge&logo=nginx&logoColor=white)
 ![compose](https://img.shields.io/badge/Docker_compose%20-%23F7DF1E.svg?&style=for-the-badge&color=blue)
 ![swagger](https://img.shields.io/badge/swagger-%2385EA2D.svg?&style=for-the-badge&logo=swagger&logoColor=black) -->
